@@ -1,0 +1,12 @@
+Information that needs to be added to the resume: 
+1. My projects
+2. Number of github commits/projects in the past year
+3. Programming languages
+4. Work experience
+5. Elevator pitch
+
+
+Replace the 'my projects part with hobbies'
+to do for that: 
+take a picture of my books
+take a picture playing soccer
